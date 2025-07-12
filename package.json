@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/tienhungmp/portfolio-tienhung.git",
+  "homepage": "https://tienhungmp.github.io/portfolio-tienhung",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
